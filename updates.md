@@ -23,6 +23,3 @@ Will swoppa ever get another shiny whale? Find out next time on total drama isla
 Click this super secret link if you're cool
 
 %!!%
-
-%!!uniform%THIS SHOULD USE UNIFORM%!!%
-%!!fruitmenu:bungee%THIS SHOULD USE BUNGEE%!!%
