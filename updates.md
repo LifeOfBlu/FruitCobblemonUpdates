@@ -1,4 +1,4 @@
-%!!fruitmenu:bungee%
+%!!bungee%
 
 ## VERSION 0.67
 
