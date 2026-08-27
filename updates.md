@@ -20,4 +20,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Will swoppa ever get another shiny whale? Find out next time on total drama island.
 
+Click this super secret link if you're cool
+
 %!!%
+
+%!!uniform%THIS SHOULD USE UNIFORM%!!%
+%!!fruitmenu:bungee%THIS SHOULD USE BUNGEE%!!%
