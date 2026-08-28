@@ -1,9 +1,14 @@
 %!!fredoka%
 
+%#3D245E%
 ## VERSION 0.67
+%#%
 
+%#493066%
 ### WELCOME TO COBBLEMON!
+%#%
 
+%#413B37%
 Welcome to the new Fruit Servers Cobblemon experience.
 
 This is where cool information will go!
@@ -63,4 +68,5 @@ hi
 
 
 theres nothing down here bruv
+%#%
 %!!%
