@@ -1,4 +1,4 @@
-%!!bungee%
+%!!fredoka%
 
 ## VERSION 0.67
 
@@ -20,6 +20,47 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Will swoppa ever get another shiny whale? Find out next time on total drama island.
 
-Click this super secret link if you're cool
+Click this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to claim your beta tester rewards!
 
+
+
+
+
+
+
+
+
+
+
+
+hi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theres nothing down here bruv
 %!!%
