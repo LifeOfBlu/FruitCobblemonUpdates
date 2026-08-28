@@ -5,9 +5,7 @@
 %!!fredoka_medium%%#493066%
 ### WELCOME TO COBBLEMON!
 %#%
-
 ![](https://raw.githubusercontent.com/LifeOfBlu/FruitCobblemonUpdates/main/images/Welcome.png)
-
 %#413B37%
 Welcome to the new Fruit Servers Cobblemon experience.
 
