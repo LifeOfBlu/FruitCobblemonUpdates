@@ -1,13 +1,10 @@
-%!!fredoka%
-
+%!!fredoka_semibold%
 %#3D245E%
 ## VERSION 0.67
-%#%
-
-%#493066%
+%#%%!!%
+%!!fredoka_medium%%#493066%
 ### WELCOME TO COBBLEMON!
 %#%
-
 %#413B37%
 Welcome to the new Fruit Servers Cobblemon experience.
 
