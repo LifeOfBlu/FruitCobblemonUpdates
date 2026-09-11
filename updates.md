@@ -1,6 +1,4 @@
-%!!fredoka_semibold%
-%#3D245E%
-## VERSION 0.67
+%!!fredoka_semibold%%#3D245E%%#3D245E%## VERSION 0.67
 %#%%!!%
 %!!fredoka_medium%%#493066%
 ### WELCOME TO COBBLEMON!
